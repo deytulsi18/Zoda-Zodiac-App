@@ -1,7 +1,7 @@
 # Zoda-Zodiac-App
 
-This a basic zodiac teller app.
-It provides info about your zodiac based on your date of birth.
+This a basic zodiac teller app, 
+it provides info about your zodiac based on your date of birth.
 
 <p align="center">
   <img src="https://github.com/deytulsi18/Zoda-Zodiac-App/blob/master/app/src/main/res/drawable/Screenshot1.jpg" width="250" title="Details entry screen">
